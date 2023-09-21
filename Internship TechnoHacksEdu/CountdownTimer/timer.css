@@ -1,0 +1,18 @@
+body {
+    background-color: aquamarine;
+    font-family: Arial, sans-serif;
+}
+
+#countdown-timer {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#timer {
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
